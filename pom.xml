@@ -3,7 +3,7 @@
     <groupId>com.levo.dockerexample</groupId>
     <artifactId>docker-java-app-example-sowmya</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>docker-java-app-example</name>
     <url>http://maven.apache.org</url>
 
@@ -72,7 +72,7 @@
   <scm>
     <connection>scm:git:https://github.com/Sowmyakommireddy/release-pipeline.git</connection>
     <developerConnection>scm:git:https://github.com/Sowmyakommireddy/release-pipeline.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>1.0.1</tag>
     <url>scm:git:https://github.com/Sowmyakommireddy/release-pipeline.git</url>
   </scm>
 
